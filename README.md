@@ -1,6 +1,6 @@
 # nj-mvc-appointment-bot
 
-https://join.slack.com/t/nj-mvc-appointments/shared_invite/zt-ufl9psuv-b7fIDpx6Qpsdbla4UUBd6Q
+https://join.slack.com/t/nj-mvc-appointments/shared_invite/zt-xnstiukw-e8tPUlf4VjRQISTMG~ZLHg
 
 Script bot for monitor appointment for NJ MVC. This script requires following Python package for running:
 
